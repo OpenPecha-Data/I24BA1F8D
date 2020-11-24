@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14709
   title: བོད་ལྗོངས་སུ་བསྐྱོད་པ། སྲོག་ཆགས་དང་སྐྱེ་དངོས་སྣེ་མང་རང་བཞིན་དང་སྲུང་སྐྱོབ་བྱ་གཞག
-  volume: ''
+  volume:
+    0b48b4e25b6a4a92a019766b8f4559b7:
+      image_group_id: I2PD19785
+      title: Volume 1 of bod ljongs su bskyod pa/ srog chags dang skye dngos sne mang
+        rang bzhin dang srung skyob bya gzhag
+      volume_number: 1
+      total_pages: 134
   author: ''
+ebook_metadata:
+  title: བོད་ལྗོངས་སུ་བསྐྱོད་པ། སྲོག་ཆགས་དང་སྐྱེ་དངོས་སྣེ་མང་རང་བཞིན་དང་སྲུང་སྐྱོབ་བྱ་གཞག
+  author: ''
+  sku: P008024
+  cover: cover.jpg
+  layers:
+  - pagination
